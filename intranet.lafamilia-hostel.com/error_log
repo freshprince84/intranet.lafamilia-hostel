@@ -1,0 +1,83 @@
+[20-Oct-2023 22:47:03 America/Bogota] Test
+[20-Oct-2023 23:16:11 America/Bogota] PHP Warning:  Undefined variable $tasks in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296
+[20-Oct-2023 23:16:11 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296
+[20-Oct-2023 23:17:43 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[20-Oct-2023 23:18:33 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 16:52:57 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:54:19 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 162
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Undefined variable $workingsNow in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:41 America/Bogota] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/lafamili/intranet.lafamilia-hostel.com/fetch_worklog.php on line 164
+[21-Oct-2023 17:55:49 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 21:30:27 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 21:31:24 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 21:31:26 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 21:31:51 America/Bogota] PHP Warning:  Undefined variable $salary in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 186
+[21-Oct-2023 22:01:52 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:02:09 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:02:21 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:02:32 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:02:38 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:02:48 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:04:24 America/Bogota] PHP Warning:  Undefined variable $activeId in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 206
+[21-Oct-2023 22:12:43 America/Bogota] PHP Parse error:  Unclosed '{' on line 142 in /home/lafamili/intranet.lafamilia-hostel.com/settings.php on line 207
+[21-Oct-2023 23:05:16 America/Bogota] PHP Warning:  Undefined variable $tasks in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296
+[21-Oct-2023 23:05:16 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296
+[22-Oct-2023 06:53:08 America/Bogota] PHP Warning:  Undefined variable $tasks in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296
+[22-Oct-2023 06:53:08 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/lafamili/intranet.lafamilia-hostel.com/welcome.php on line 296

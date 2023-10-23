@@ -1,0 +1,628 @@
+/******* Header *****/
+
+/* The navigation bar */
+.topbar {
+  display:flex;
+  margin-top: 1em;
+  margin-bottom: 1.5em;
+}
+
+.topbar-fixed {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+
+body {
+    padding:0px;
+    font: 14px sans-serif; 
+    text-align: center;
+    overflow-x: hidden;
+}
+
+.win {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+}
+
+.win-start {
+    justify-content: start;
+    height: 80vh;
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+.win-start {
+    height: 100vh;
+}
+}
+
+.head-logo {
+    width: 4em;
+}
+
+.header-role-DD {
+    width: 15%;
+    float: right;
+    margin-right: 2%;
+    padding-top: 2%;    }
+
+.header {
+   margin-top: 1.8em;
+}
+
+
+/******* Designs *****/
+
+/* Mobile */
+.box {
+    display: inline-block;
+    width: 80%; 
+    background-color: white; 
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: rgb(149 157 165 / 10%) 0px 8px 24px;
+    margin-bottom: 1em;
+}
+.box-start {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 99%;
+}
+
+
+
+/* Tablet */
+@media (min-width: 600px) {
+.box-start {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 450px;
+}
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+.container {
+    display: flex; 
+}
+.box {
+    width: 60%;
+    margin-bottom: 1.5em;
+}
+.box-start {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 450px;
+}
+}
+
+/* PC */
+@media (min-width: 1100px) {
+.box {
+    width: 50%;
+}
+.box-start {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 450px;
+}
+}
+
+.scrollbox {
+    overflow: auto;
+    height: 80vh;
+}
+
+.first {
+    margin-right: 5%;
+}
+
+.todo {
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 300px;
+}
+
+/* Mobile */
+@media (min-width: 768px) {
+.todo {
+    min-width: 80%;
+}
+}
+
+/* Mobile */
+@media (max-width: 1100px) {
+.box-wide {
+    padding-left: 0;
+    padding-right: 0;
+    min-width: 91%;
+}
+}
+
+/* PC */
+@media (min-width: 1100px) {
+.box-wide {
+    min-width: 80%;
+}
+}
+
+
+hr {
+    width: 80%;
+    background-color: lightgrey;
+}
+
+div.box.sal {
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 0.5em;
+}s
+
+div.box.data {
+    padding-left: 1%;
+}
+
+/* Style divs */
+div.worklog {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+
+/* Style rows */
+.small_row {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+/* Style login row */
+.login {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+@media (min-width: 768px) {
+.row.chart {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+}
+
+@media (min-width: 1100px) {
+.row.chart {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+}
+
+.row.data {
+    padding: 1.5em;
+}
+
+/* Style tables */
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+@media (max-width: 640px) {
+table{
+    font-size: 0.6rem;
+}
+}
+
+table.data {
+    text-align: left;
+}
+
+table#tasks {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.requests {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.grey {
+    color: grey;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
+
+.thick {
+    font-weight: bold;
+}
+
+
+td.sal {
+    white-space: nowrap;
+}
+
+td.but {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/*td.form_desc {
+    width: 45%;
+}
+*/
+
+td.request_desc {
+    text-align: left;
+    width: 30%;
+}
+
+.task_desc {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.right {
+    text-align: right;
+    padding-right: 1em;
+}
+
+.center {
+    text-align: center;
+}
+
+tr {
+    height: 2em;
+}
+
+/* Style buttons */
+.btn {
+    border: none; /* Remove borders */
+}
+
+.btn-primary {
+    background-color: #25a5cf; 
+}
+.btn-primary:hover {
+    background-color: #25a5cf; /* change this to your desired hover background color */
+}
+.btn-warning, .btn-warning:hover {
+    color: white;
+}
+
+@media (max-width: 640px) {
+.btn-sm{
+    font-size: 0.5rem;
+}
+}
+
+.btn-link {
+    color: black;
+}
+
+.fa-big {
+    font-size: 1.5em;
+    padding: 0.5em;
+}
+
+.fa-big-left {
+    margin-left: 1em;
+}
+
+@media (min-width: 640px) {
+
+.fa-big-left {
+    margin-left: 2em;
+}}
+
+
+.disable , .disable:hover, :disabled {
+    background-color: gray;
+    color: white;
+    cursor: not-allowed!important;
+}
+
+/* Style labels */
+.labels {
+    font-weight: bold;
+    display: block;
+}
+
+/* Style inputs */
+.btn-primary {
+    background-color: #25a5cf;
+}
+
+.sub_btn:hover, .sub_btn:active, .sub_btn:focus {
+    background-color: lightgray;
+}
+
+.task_sub_btn {
+    margin-top: 2%;
+}
+
+@media (min-width: 576px) {
+.task_sub_btn {
+    margin-top: 0;
+    margin-left: 5%;
+}
+}
+
+.task_sub_btn:hover, .task_sub_btn:active, .task_sub_btn:focus {
+    background-color: lightgray;
+}
+
+.data_btn {
+    margin-top: 2em!important;
+}
+
+input[type=text], input[type=email]  {
+    background-color: #FFFFFF;
+    border: 2px solid #ccc;
+    color: black;
+    padding: 8px 1px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;    
+    -webkit-border-radius: 5px;
+    border-radius: 4px;
+    text-align: center;
+    max-width: 120%;
+}
+
+.search_input  {
+    background-color: #FFFFFF;
+    border: 2px solid #ccc;
+    color: black;
+    padding: 8px 1px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;    
+    -webkit-border-radius: 5px;
+    border-radius: 4px;
+    text-align: center;
+    max-width: 120%;
+}
+
+
+.unit {
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+
+.request {
+    width: 80%;
+}
+
+input.btn-light[type="submit"] {
+  background-color: lightgray;
+}
+
+input.btn-danger[type="submit"] {
+  background-color: #dc3545;
+}
+
+input[type="submit"] {
+    text-decoration: none;
+    text-align: center;
+    margin: 4px 2px;    
+    padding: 12px 20px;
+    border: none; /* Remove borders */
+    border-radius: 5px;
+    cursor: pointer;    
+    -webkit-border-radius: 5px;
+}
+
+
+
+/******* Dropdowns *****/
+.request {
+    background-color: #FFFFFF;
+    border: 2px solid #ccc;
+    color: black;
+    padding: 8px 1px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;    
+    -webkit-border-radius: 5px;
+    border-radius: 4px;
+    text-align: center;
+    max-width: 120%;
+    
+}
+
+.dropdown-menu {
+  padding: 15px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+
+.calendar {
+    background-color: #FFFFFF;
+    border: 2px solid #ccc;
+    color: black;
+    padding: 8px 1px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;    
+    -webkit-border-radius: 5px;
+    border-radius: 4px;
+    text-align: center;
+    max-width: 120%;
+    width: 80%;
+}
+
+@media (min-width: 576px) {
+.calendar {
+    width: 60%;
+}
+}
+
+
+/******* Modals / Popups*****/
+
+ /* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+} 
+
+/******* Tabs *****/
+
+ /* Style the tab */
+.tab {
+  overflow: hidden;
+/*  border: 1px solid #ccc; */
+  background-color: light-gray;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding-top: 0;
+  padding-bottom: 6px;
+  padding-left: 0;
+  padding-right: 0;
+  border: none;
+  border-top: none;
+  margin-left: 0px;
+  margin-right: 0px;
+} 
+
+@media (min-width: 576px) {
+.tabcontent {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+}
+
+
+/******* Tooltips *****/
+.hoverInfos {
+    position: relative;
+}
+
+.hoverInfo {
+  display: none;
+  position: absolute; 
+  z-index: 100;
+  background-color: white;
+  border: 1px light-gray;
+  padding: 5%;
+  color: black; 
+  bottom: 100%; 
+  left: 20px;
+  width: 80%;
+  line-height: 1.8em;
+  text-align: left;
+}
+
+.hoverInfos:hover span.hoverInfo {
+  display:block;
+}
+
+
+/******* Footer *****/
+
+/* Place the navbar at the bottom of the page, and make it stick */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 6px 12px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #ab1d34;
+  color: white;
+}
