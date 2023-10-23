@@ -1,6 +1,9 @@
 <?php
 	require_once 'config.php';
 	
+	error_log('Test');
+
+
 	if(ISSET($_POST['add'])){
 		if($_POST['request'] != ""){
 			$request = $_POST['request'];
